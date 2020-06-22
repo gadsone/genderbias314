@@ -101,7 +101,7 @@ RQ4: There is a positive correlation between a particular race/ethnicity and if 
 
 -------------
 
-Results
+Results: 
 	Although our tests proved to be not statistically significant, that was due to multiple factors. This study has taught us that to set up a survey, we need more time to both works on the questions and to spread the survey. Our questions were not really answered, due to too small of a data set, but overall it appeared to show that certain majors were less prone to gender bias (social work and nursing, because they are female dominated majors according to the respondents). We plan to rework the survey to have more clear questions as well as more examples in the future, and release the survey when students are not crunching for exams and more hesitant to take the survey.
 -------------
 
